@@ -1,0 +1,27 @@
+_repo: '--------------------------------13---------------_37196'
+_version: 0.1.0
+alternative_title: Zhenskoe Mezhdunarodnoe Dvizhenie Sbornik Statei
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2011-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37196'
+language: ru
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HX'
+- !lcsh 'Women and socialism'
+- !lcsh 'Women''s rights'
+title: 'Женское международное движение: Сборник статей'
+url: http://www.gutenberg.org/ebooks/37196
